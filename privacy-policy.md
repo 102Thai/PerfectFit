@@ -27,5 +27,6 @@ Các bên thứ ba này có quyền truy cập vào thông tin phi cá nhân c�
 5. Thay đổi chính sách này
 Chúng tôi có thể cập nhật Chính sách quyền riêng tư của mình theo thời gian. Bạn nên xem lại trang này định kỳ để biết bất kỳ thay đổi nào. Các thay đổi có hiệu lực ngay khi được đăng trên trang này.
 
-6. Liên hệ
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Chính sách quyền riêng tư của chúng tôi, vui lòng liên hệ qua email: duythaifishing@gmail.com
+6.Liên hệ 
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào về Chính sách quyền riêng tư của chúng tôi, vui lòng liên hệ: 
+Tên developer: Vũ Văn Duy Thái - gmail: duythaifishing@gmail.com.
